@@ -1,1 +1,1 @@
-playlist = {a1:"s1"};
+var playlist = {a1:"s1"};
